@@ -1,3 +1,3 @@
 # hello-world
 A new repository
-Iam new to GithHub and i wish to learn something new.
+I am new to GithHub and i wish to learn something new.
